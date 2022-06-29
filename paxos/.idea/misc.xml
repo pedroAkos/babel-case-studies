@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/babel-multipaxos/pom.xml" />
+        <option value="$PROJECT_DIR$/babel-paxos/pom.xml" />
+        <option value="$PROJECT_DIR$/chinespaxoses/MyPaxos/MyPaxos/pom.xml" />
+        <option value="$PROJECT_DIR$/chinespaxoses/WPaxos/pom.xml" />
+        <option value="$PROJECT_DIR$/client/paxos-client/pom.xml" />
+        <option value="$PROJECT_DIR$/client/core/pom.xml" />
+        <option value="$PROJECT_DIR$/chinespaxoses/MyPaxos/pom.xml" />
+        <option value="$PROJECT_DIR$/chinespaxoses/WPaxos/core/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" project-jdk-name="1.8.0_171" project-jdk-type="JavaSDK" />
+</project>

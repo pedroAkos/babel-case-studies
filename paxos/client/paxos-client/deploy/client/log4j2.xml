@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="INFO" shutdownHook="disable">
+  <Appenders>
+    <Console name="Console" target="SYSTEM_OUT">
+      <PatternLayout pattern="%highlight{%level{length=1}[%d{HH:mm:ss,SSS}] [%t]%logger{0}:} %msg%n"/>
+    </Console>
+  </Appenders>
+
+  <Loggers>
+    <Logger level="info" name="io.netty"/>
+    <Logger level="info" name="pt.unl.fct.di.novasys.network"/>
+    <Logger level="info" name="pt.unl.fct.di.novasys.channel"/>
+    <Logger level="info" name="pt.unl.fct.di.novasys.babel"/>
+
+    <Root level="info">
+      <AppenderRef ref="Console" level="info"/>
+    </Root>
+  </Loggers>
+</Configuration>

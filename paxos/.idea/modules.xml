@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/chinespaxoses/MyPaxos/MyPaxos.iml" filepath="$PROJECT_DIR$/chinespaxoses/MyPaxos/MyPaxos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/babel-multipaxos/babel-multipaxos.iml" filepath="$PROJECT_DIR$/babel-multipaxos/babel-multipaxos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client/core/core.iml" filepath="$PROJECT_DIR$/client/core/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/paxos.iml" filepath="$PROJECT_DIR$/.idea/paxos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client/paxos-client/paxos-client.iml" filepath="$PROJECT_DIR$/client/paxos-client/paxos-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chinespaxoses/WPaxos/wpaxos.iml" filepath="$PROJECT_DIR$/chinespaxoses/WPaxos/wpaxos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chinespaxoses/WPaxos/core/wpaxos.core.iml" filepath="$PROJECT_DIR$/chinespaxoses/WPaxos/core/wpaxos.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chinespaxoses/WPaxos/sample/wpaxos.sample.iml" filepath="$PROJECT_DIR$/chinespaxoses/WPaxos/sample/wpaxos.sample.iml" />
+    </modules>
+  </component>
+</project>

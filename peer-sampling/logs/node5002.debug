@@ -1,0 +1,75 @@
+I[17:23:10,485] [310-FloodGossip]FloodGossip: New neighbour 127.0.0.1:5001, curr view: [127.0.0.1:5001]
+I[17:23:11,930] [310-FloodGossip]FloodGossip: New neighbour 127.0.0.1:5003, curr view: [127.0.0.1:5003, 127.0.0.1:5001]
+I[17:23:12,738] [310-FloodGossip]FloodGossip: New neighbour 127.0.0.1:5004, curr view: [127.0.0.1:5004, 127.0.0.1:5003, 127.0.0.1:5001]
+I[17:23:14,819] [310-FloodGossip]FloodGossip: New neighbour 127.0.0.1:5008, curr view: [127.0.0.1:5008, 127.0.0.1:5004, 127.0.0.1:5003, 127.0.0.1:5001]
+I[17:23:16,401] [310-FloodGossip]FloodGossip: New neighbour 127.0.0.1:5005, curr view: [127.0.0.1:5008, 127.0.0.1:5004, 127.0.0.1:5003, 127.0.0.1:5005, 127.0.0.1:5001]
+I[17:23:19,975] [310-FloodGossip]FloodGossip: New neighbour 127.0.0.1:5006, curr view: [127.0.0.1:5008, 127.0.0.1:5004, 127.0.0.1:5003, 127.0.0.1:5006, 127.0.0.1:5005, 127.0.0.1:5001]
+I[17:24:07,380] [11-DisseminationConsumer]DisseminationConsumer: Received: Hello from 127.0.0.1:5000 seq num: 0
+I[17:24:08,351] [11-DisseminationConsumer]DisseminationConsumer: Received: Hello from 127.0.0.1:5000 seq num: 1
+I[17:24:08,410] [11-DisseminationConsumer]DisseminationConsumer: Received: Hello from 127.0.0.1:5001 seq num: 0
+I[17:24:09,349] [11-DisseminationConsumer]DisseminationConsumer: Received: Hello from 127.0.0.1:5000 seq num: 2
+I[17:24:09,411] [11-DisseminationConsumer]DisseminationConsumer: Received: Hello from 127.0.0.1:5001 seq num: 1
+I[17:24:10,344] [11-DisseminationConsumer]DisseminationConsumer: Received: Hello from 127.0.0.1:5000 seq num: 3
+I[17:24:10,374] [11-DisseminationConsumer]DisseminationConsumer: Sent: Hello from 127.0.0.1:5002 seq num: 0
+I[17:24:10,375] [11-DisseminationConsumer]DisseminationConsumer: Received: Hello from 127.0.0.1:5002 seq num: 0
+I[17:24:10,426] [11-DisseminationConsumer]DisseminationConsumer: Received: Hello from 127.0.0.1:5001 seq num: 2
+I[17:24:11,369] [11-DisseminationConsumer]DisseminationConsumer: Received: Hello from 127.0.0.1:5000 seq num: 4
+I[17:24:11,383] [11-DisseminationConsumer]DisseminationConsumer: Sent: Hello from 127.0.0.1:5002 seq num: 1
+I[17:24:11,384] [11-DisseminationConsumer]DisseminationConsumer: Received: Hello from 127.0.0.1:5002 seq num: 1
+I[17:24:11,439] [11-DisseminationConsumer]DisseminationConsumer: Received: Hello from 127.0.0.1:5001 seq num: 3
+I[17:24:11,820] [11-DisseminationConsumer]DisseminationConsumer: Received: Hello from 127.0.0.1:5003 seq num: 0
+I[17:24:12,366] [11-DisseminationConsumer]DisseminationConsumer: Received: Hello from 127.0.0.1:5000 seq num: 5
+I[17:24:12,384] [11-DisseminationConsumer]DisseminationConsumer: Sent: Hello from 127.0.0.1:5002 seq num: 2
+I[17:24:12,393] [11-DisseminationConsumer]DisseminationConsumer: Received: Hello from 127.0.0.1:5002 seq num: 2
+I[17:24:12,452] [11-DisseminationConsumer]DisseminationConsumer: Received: Hello from 127.0.0.1:5001 seq num: 4
+I[17:24:12,672] [11-DisseminationConsumer]DisseminationConsumer: Received: Hello from 127.0.0.1:5004 seq num: 0
+I[17:24:12,823] [11-DisseminationConsumer]DisseminationConsumer: Received: Hello from 127.0.0.1:5003 seq num: 1
+I[17:24:13,362] [11-DisseminationConsumer]DisseminationConsumer: Received: Hello from 127.0.0.1:5000 seq num: 6
+I[17:24:13,395] [11-DisseminationConsumer]DisseminationConsumer: Sent: Hello from 127.0.0.1:5002 seq num: 3
+I[17:24:13,400] [11-DisseminationConsumer]DisseminationConsumer: Received: Hello from 127.0.0.1:5002 seq num: 3
+I[17:24:13,466] [11-DisseminationConsumer]DisseminationConsumer: Received: Hello from 127.0.0.1:5001 seq num: 5
+I[17:24:13,516] [11-DisseminationConsumer]DisseminationConsumer: Received: Hello from 127.0.0.1:5005 seq num: 0
+I[17:24:13,671] [11-DisseminationConsumer]DisseminationConsumer: Received: Hello from 127.0.0.1:5004 seq num: 1
+I[17:24:13,821] [11-DisseminationConsumer]DisseminationConsumer: Received: Hello from 127.0.0.1:5003 seq num: 2
+I[17:24:13,962] [11-DisseminationConsumer]DisseminationConsumer: Received: Hello from 127.0.0.1:5006 seq num: 0
+I[17:24:14,361] [11-DisseminationConsumer]DisseminationConsumer: Received: Hello from 127.0.0.1:5000 seq num: 7
+I[17:24:14,389] [11-DisseminationConsumer]DisseminationConsumer: Sent: Hello from 127.0.0.1:5002 seq num: 4
+I[17:24:14,391] [11-DisseminationConsumer]DisseminationConsumer: Received: Hello from 127.0.0.1:5002 seq num: 4
+I[17:24:14,445] [11-DisseminationConsumer]DisseminationConsumer: Received: Hello from 127.0.0.1:5001 seq num: 6
+I[17:24:14,475] [11-DisseminationConsumer]DisseminationConsumer: Received: Hello from 127.0.0.1:5007 seq num: 0
+I[17:24:14,505] [11-DisseminationConsumer]DisseminationConsumer: Received: Hello from 127.0.0.1:5005 seq num: 1
+I[17:24:14,672] [11-DisseminationConsumer]DisseminationConsumer: Received: Hello from 127.0.0.1:5004 seq num: 2
+I[17:24:14,758] [11-DisseminationConsumer]DisseminationConsumer: Received: Hello from 127.0.0.1:5008 seq num: 0
+I[17:24:14,824] [11-DisseminationConsumer]DisseminationConsumer: Received: Hello from 127.0.0.1:5003 seq num: 3
+I[17:24:14,960] [11-DisseminationConsumer]DisseminationConsumer: Received: Hello from 127.0.0.1:5006 seq num: 1
+I[17:24:15,032] [11-DisseminationConsumer]DisseminationConsumer: Received: Hello from 127.0.0.1:5009 seq num: 0
+I[17:24:15,355] [11-DisseminationConsumer]DisseminationConsumer: Received: Hello from 127.0.0.1:5000 seq num: 8
+I[17:24:15,394] [11-DisseminationConsumer]DisseminationConsumer: Sent: Hello from 127.0.0.1:5002 seq num: 5
+I[17:24:15,396] [11-DisseminationConsumer]DisseminationConsumer: Received: Hello from 127.0.0.1:5002 seq num: 5
+I[17:24:15,433] [11-DisseminationConsumer]DisseminationConsumer: Received: Hello from 127.0.0.1:5001 seq num: 7
+I[17:24:15,452] [11-DisseminationConsumer]DisseminationConsumer: Received: Hello from 127.0.0.1:5007 seq num: 1
+I[17:24:15,510] [11-DisseminationConsumer]DisseminationConsumer: Received: Hello from 127.0.0.1:5005 seq num: 2
+I[17:24:15,687] [11-DisseminationConsumer]DisseminationConsumer: Received: Hello from 127.0.0.1:5004 seq num: 3
+I[17:24:15,769] [11-DisseminationConsumer]DisseminationConsumer: Received: Hello from 127.0.0.1:5008 seq num: 1
+I[17:24:15,827] [11-DisseminationConsumer]DisseminationConsumer: Received: Hello from 127.0.0.1:5003 seq num: 4
+I[17:24:15,960] [11-DisseminationConsumer]DisseminationConsumer: Received: Hello from 127.0.0.1:5006 seq num: 2
+I[17:24:16,031] [11-DisseminationConsumer]DisseminationConsumer: Received: Hello from 127.0.0.1:5009 seq num: 1
+I[17:24:16,357] [11-DisseminationConsumer]DisseminationConsumer: Received: Hello from 127.0.0.1:5000 seq num: 9
+I[17:24:16,398] [11-DisseminationConsumer]DisseminationConsumer: Sent: Hello from 127.0.0.1:5002 seq num: 6
+I[17:24:16,399] [11-DisseminationConsumer]DisseminationConsumer: Received: Hello from 127.0.0.1:5002 seq num: 6
+I[17:24:16,441] [11-DisseminationConsumer]DisseminationConsumer: Received: Hello from 127.0.0.1:5001 seq num: 8
+I[17:24:16,472] [11-DisseminationConsumer]DisseminationConsumer: Received: Hello from 127.0.0.1:5007 seq num: 2
+I[17:24:16,512] [11-DisseminationConsumer]DisseminationConsumer: Received: Hello from 127.0.0.1:5005 seq num: 3
+I[17:24:16,681] [11-DisseminationConsumer]DisseminationConsumer: Received: Hello from 127.0.0.1:5004 seq num: 4
+I[17:24:16,761] [11-DisseminationConsumer]DisseminationConsumer: Received: Hello from 127.0.0.1:5008 seq num: 2
+I[17:24:16,826] [11-DisseminationConsumer]DisseminationConsumer: Received: Hello from 127.0.0.1:5003 seq num: 5
+I[17:24:16,962] [11-DisseminationConsumer]DisseminationConsumer: Received: Hello from 127.0.0.1:5006 seq num: 3
+I[17:24:17,027] [11-DisseminationConsumer]DisseminationConsumer: Received: Hello from 127.0.0.1:5009 seq num: 2
+I[17:24:17,362] [11-DisseminationConsumer]DisseminationConsumer: Received: Hello from 127.0.0.1:5000 seq num: 10
+I[17:24:17,402] [11-DisseminationConsumer]DisseminationConsumer: Sent: Hello from 127.0.0.1:5002 seq num: 7
+I[17:24:17,403] [11-DisseminationConsumer]DisseminationConsumer: Received: Hello from 127.0.0.1:5002 seq num: 7
+I[17:24:17,444] [11-DisseminationConsumer]DisseminationConsumer: Received: Hello from 127.0.0.1:5001 seq num: 9
+I[17:24:17,469] [11-DisseminationConsumer]DisseminationConsumer: Received: Hello from 127.0.0.1:5007 seq num: 3
+I[17:24:18,406] [11-DisseminationConsumer]DisseminationConsumer: Sent: Hello from 127.0.0.1:5002 seq num: 8
+I[17:24:18,406] [11-DisseminationConsumer]DisseminationConsumer: Received: Hello from 127.0.0.1:5002 seq num: 8
+I[17:24:18,802] [Thread-1]Main: Goodbye
